@@ -17,7 +17,7 @@ This will be a walkthrough of setting up the code environment for sig minecraft.
 
 ## Minecraft Server Setup
 1. Take the jar file you downloaded from papermc and put it in your `Server` folder you created earlier
-2. Rename the file to `sever.jar`
+2. Rename the file to `server.jar`
 3. Create a text file with the name run
 4. Open the text file 
     1. Paste this inside:
