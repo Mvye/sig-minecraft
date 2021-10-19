@@ -1,0 +1,5 @@
+name: EmptyPlugin
+version: 1.0
+author: Mvye
+main: com.mvye.firstplugin.FirstPlugin
+api-version: 1.17
