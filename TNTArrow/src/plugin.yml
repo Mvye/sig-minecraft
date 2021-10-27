@@ -1,0 +1,5 @@
+name: TNTArrow
+version: 1.0
+author: Mvye
+main: com.mvye.tntarrow.TNTArrow
+api-version: 1.17
