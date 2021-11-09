@@ -1,0 +1,10 @@
+name: ParticleCommandMM
+version: 1.0
+author: Mvye
+main: com.mvye.particlecommandmm.ParticleCommandMM
+api-version: 1.17
+commands:
+  toggleParticleMM:
+    description: Toggles a particle effect when shifting.
+    usage: /<command>
+    aliases: [tPMM, tMM]
