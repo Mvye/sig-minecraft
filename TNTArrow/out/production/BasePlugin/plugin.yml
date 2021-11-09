@@ -1,0 +1,5 @@
+name: BasePlugin
+version: 1.0
+author: Mvye
+main: com.mvye.baseplugin.BasePlugin
+api-version: 1.17
