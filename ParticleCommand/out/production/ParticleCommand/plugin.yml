@@ -1,0 +1,9 @@
+name: ParticleCommand
+version: 1.0
+author: Mvye
+main: com.mvye.particlecommand.ParticleCommand
+api-version: 1.17
+commands:
+  toggleParticle:
+    description: Toggles a particle effect on shift.
+    usage: /<command>
